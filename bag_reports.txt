@@ -1,0 +1,16 @@
+Name: Alesia
+Bug_id: 1
+
+Title: The "SAVE DATA" button is smaller than the others
+
+Severity: trivial
+Priority: low
+
+Environment:  Xiaomi Redmi Note 8 ; Android 11 RKQ1.201004.002 ;  MIUI Global 12.5.2
+
+Precondition: Buttons of the same size
+AR: The application buttons have one view
+ER: The “SAVE DATA” button is smaller than the others
+
+Attachments: yes
+
