@@ -1,16 +1,29 @@
-Name: Alesia
-Bug_id: 1
+Name: Алеся Багуцкая
+Bug_id: 1**7
 
-Title: The "SAVE DATA" button is smaller than the others
+Environment: Windows 10, Firefox 102
 
-Severity: trivial
-Priority: low
+Title: На сайте *********.com локализация /en в разделе Подпишись/Соцсети указаны неверно ссылки:
+1. ********* 
+2. *********
 
-Environment:  Xiaomi Redmi Note 8 ; Android 11 RKQ1.201004.002 ;  MIUI Global 12.5.2
+Severity: Средняя
+Priority: Средний
 
-Precondition: Buttons of the same size
-AR: The application buttons have one view
-ER: The “SAVE DATA” button is smaller than the others
+Precondition: В разделе Подпишись/Соцсети ссылки ведут на неправильные ресурсы
 
-Attachments: yes
+STR:1. Открыть сайт https://*******.com/ 
+2. Проскроллить вниз до футера блок Подпишитесь/Соцсети
+3. Нажать на иконки ******** и **********
 
+ER:1. Переход в соцсеть *******
+   2. Переход в соцсеть *******
+
+AR: 1. Переход на чужую страницу на сайте https://***********.com/************* 
+    2. Переход на чужую страницу на сайте https://***********.com/************* 
+     
+Attachments: 
+1. https://drive.google.com/****** - фото
+   https://drive.google.com/****** - видео
+2. https://drive.google.com/****** - фото
+   https://drive.google.com/****** - видео
